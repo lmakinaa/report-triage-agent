@@ -1,0 +1,8 @@
+{"id": "X1", "market": "SG", "report_reason": "spam", "transcript": "hello chat", "viewer_reports": 1, "creator_id": "cr_1"}
+{"id": "X2", "market": "SG", "report_reason": "spam", "transcript": "broken json"
+{"id": "X3", "market": "SG", "report_reason": "spam", "viewer_reports": 1, "creator_id": "cr_1"}
+{"id": "X4", "market": "SG", "report_reason": "spam", "transcript": "negative", "viewer_reports": -2, "creator_id": "cr_1"}
+{"id": "X1", "market": "SG", "report_reason": "spam", "transcript": "duplicate", "viewer_reports": 1, "creator_id": "cr_1"}
+
+{"id": "X6", "market": "ID", "report_reason": "other", "transcript": "fine row", "viewer_reports": 0, "creator_id": "cr_2", "label": "SAFE"}
+{"id": "X7", "market": "ID", "report_reason": "other", "transcript": "bad label", "viewer_reports": 0, "creator_id": "cr_2", "label": "MAYBE"}

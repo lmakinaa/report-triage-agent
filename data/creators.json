@@ -1,0 +1,157 @@
+{
+  "cr_007": {
+    "prior_strikes": 1,
+    "account_age_days": 41,
+    "agency": "Agency A"
+  },
+  "cr_014": {
+    "prior_strikes": 0,
+    "account_age_days": 52,
+    "agency": null
+  },
+  "cr_021": {
+    "prior_strikes": 1,
+    "account_age_days": 63,
+    "agency": null
+  },
+  "cr_028": {
+    "prior_strikes": 1,
+    "account_age_days": 74,
+    "agency": "Agency A"
+  },
+  "cr_004": {
+    "prior_strikes": 0,
+    "account_age_days": 85,
+    "agency": "Agency A"
+  },
+  "cr_011": {
+    "prior_strikes": 1,
+    "account_age_days": 96,
+    "agency": null
+  },
+  "cr_018": {
+    "prior_strikes": 1,
+    "account_age_days": 107,
+    "agency": null
+  },
+  "cr_025": {
+    "prior_strikes": 0,
+    "account_age_days": 118,
+    "agency": "Agency A"
+  },
+  "cr_001": {
+    "prior_strikes": 1,
+    "account_age_days": 129,
+    "agency": "Agency A"
+  },
+  "cr_008": {
+    "prior_strikes": 0,
+    "account_age_days": 140,
+    "agency": null
+  },
+  "cr_015": {
+    "prior_strikes": 0,
+    "account_age_days": 151,
+    "agency": null
+  },
+  "cr_022": {
+    "prior_strikes": 0,
+    "account_age_days": 162,
+    "agency": "Agency A"
+  },
+  "cr_029": {
+    "prior_strikes": 0,
+    "account_age_days": 173,
+    "agency": null
+  },
+  "cr_005": {
+    "prior_strikes": 0,
+    "account_age_days": 184,
+    "agency": null
+  },
+  "cr_012": {
+    "prior_strikes": 0,
+    "account_age_days": 195,
+    "agency": null
+  },
+  "cr_019": {
+    "prior_strikes": 0,
+    "account_age_days": 206,
+    "agency": "Agency A"
+  },
+  "cr_026": {
+    "prior_strikes": 1,
+    "account_age_days": 217,
+    "agency": null
+  },
+  "cr_002": {
+    "prior_strikes": 0,
+    "account_age_days": 228,
+    "agency": null
+  },
+  "cr_009": {
+    "prior_strikes": 1,
+    "account_age_days": 239,
+    "agency": null
+  },
+  "cr_016": {
+    "prior_strikes": 1,
+    "account_age_days": 250,
+    "agency": "Agency A"
+  },
+  "cr_023": {
+    "prior_strikes": 0,
+    "account_age_days": 261,
+    "agency": null
+  },
+  "cr_030": {
+    "prior_strikes": 1,
+    "account_age_days": 272,
+    "agency": null
+  },
+  "cr_006": {
+    "prior_strikes": 1,
+    "account_age_days": 283,
+    "agency": null
+  },
+  "cr_013": {
+    "prior_strikes": 0,
+    "account_age_days": 294,
+    "agency": "Agency A"
+  },
+  "cr_020": {
+    "prior_strikes": 1,
+    "account_age_days": 305,
+    "agency": null
+  },
+  "cr_027": {
+    "prior_strikes": 1,
+    "account_age_days": 316,
+    "agency": null
+  },
+  "cr_003": {
+    "prior_strikes": 0,
+    "account_age_days": 327,
+    "agency": null
+  },
+  "cr_010": {
+    "prior_strikes": 1,
+    "account_age_days": 338,
+    "agency": "Agency A"
+  },
+  "cr_017": {
+    "prior_strikes": 1,
+    "account_age_days": 349,
+    "agency": null
+  },
+  "cr_024": {
+    "prior_strikes": 0,
+    "account_age_days": 360,
+    "agency": null
+  },
+  "cr_000": {
+    "prior_strikes": 1,
+    "account_age_days": 371,
+    "agency": null
+  }
+}
